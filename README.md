@@ -34,7 +34,7 @@ Make sure you have Node.js and npm install.
       <pre>npm install</pre>
  
   3. Start the Application
-     <pre>node app.js</pre>
+     <pre>npm start</pre>
   Application runs from localhost:3000.
       
 #### Run in development
