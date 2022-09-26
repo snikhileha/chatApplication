@@ -37,7 +37,17 @@ Make sure you have Node.js and npm install.
      <pre>node app.js</pre>
   Application runs from localhost:3000.
       
-## How It Works
+#### Run in development
+
+Run the following commands to run the app in development with hot reloading:
+```
+npm start server
+```
+and in another terminal tab run:
+```
+npm run development
+```
+View the app running in development at
 
   
       
