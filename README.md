@@ -28,7 +28,7 @@ This page is responsive so you can access it through your mobile.
 Make sure you have Node.js and npm install.
 
   1. Clone or Download the repository 
-    <pre>git https://the-awesome-snikhileha-site.netlify.app/
+    <pre>git https://github.com/snikhileha/chatApplication.git
     $ cd cchat</pre>
   2. Install Dependencies
       <pre>npm install</pre>
@@ -47,8 +47,7 @@ and in another terminal tab run:
 ```
 npm run development
 ```
-View the app running in development at https://statuesque-tapioca-31c5de.netlify.app/
-
+View the app running in development at https://the-awesome-snikhileha-site.netlify.app/
   
       
  ## Sockets
