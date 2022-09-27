@@ -28,7 +28,7 @@ This page is responsive so you can access it through your mobile.
 Make sure you have Node.js and npm install.
 
   1. Clone or Download the repository 
-    <pre>git https://github.com/snikhileha/chatApplication.git
+    <pre>git https://the-awesome-snikhileha-site.netlify.app/
     $ cd cchat</pre>
   2. Install Dependencies
       <pre>npm install</pre>
