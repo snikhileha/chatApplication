@@ -4,8 +4,7 @@
 
 
 
-This project is based on JavaScript, React & Note JS.This real time chat application convey the messages from one user to unother.
-This page is responsive so you can access it through your mobile.
+This project is based on JavaScript, React & Note JS. This real time chat application conveys the messages from one user to another. This page is responsive so you can access it through your mobile.
 
 
 
