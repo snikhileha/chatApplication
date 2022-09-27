@@ -1,0 +1,76 @@
+.chatPage{
+    background-image: url("https://wallpapercave.com/wp/wp8561104.jpg");
+    width: 100vw;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.chatContainer{
+    background-image: url("https://pluspng.com/img-png/clear-blue-sky-png-balloon-and-rainbow-hd-stock-video-clip-852.jpg");
+    height: 60%;
+    width: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.header{
+    background-color: rgb(144, 218, 236);
+    height: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+.header >h2{
+    font-size: 2vmax;
+    color: rgb(105, 15, 68);
+    margin: 2.5vmax;
+
+}
+.header img{
+    width: 20px;
+    margin: 2.5vmax;
+    transition: all 0.3s;
+    cursor: pointer;
+}
+.chatBox{
+    
+    height: 70%;
+    box-sizing: border-box;
+
+}
+.header>img:hover{
+    transform: scale(1.2);
+}
+.inputBox{
+   
+    height: 15%;
+    box-sizing: border-box;
+    display: flex;
+}
+#chatInput{
+    width: 80%;
+    border: none;
+    padding: 2vmax;
+    box-sizing: border-box;
+    background-color: rgb(144, 218, 236);
+    outline: none;
+    font-size: 1.2vmax ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    /* border-top: 0.2vmax solid rgb(78, 77, 77) ; */
+}
+.sendBtn{
+    background-color: rgb(62, 127, 211);
+    color: white;
+    border: none;
+    width: 21%;
+    transition: all 0.3s;
+    cursor: pointer;
+}
+.sendBtn:hover{
+    background-color: rgb(43, 94, 161);
+}

@@ -1,0 +1,61 @@
+.JoinPage{
+    background-image: url("https://th.bing.com/th/id/R.d5368433ae1c23a94417c112714e8014?rik=C%2blqInFt4z6U%2fQ&riu=http%3a%2f%2fprintablegraphics.in%2fwp-content%2fuploads%2f2018%2f01%2fHtml-background-images-in-blue-shades.jpg&ehk=TRrDz3mOtE9oLEdm9co2WItRm9Y9qN4h9g9whRfbgag%3d&risl=&pid=ImgRaw&r=0");
+    height: 100vh;
+    width: 100vw;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.JoinContainer{
+    
+    width: 50%;
+
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+}
+.JoinContainer>img{
+    width: 10vmax;
+}
+.JoinContainer > h1{
+    color: white;
+    font-size: 2.5vmax;
+    width: 25vmax;
+    text-align: center;
+    padding: 1vmax;
+    border-bottom: 0.2vmax solid white;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#joinInput{
+    width: 25vmax;
+    padding:1.5vmax;
+    border: none;
+    outline: none;
+    font-size: 1.2vmax;
+    margin: 2vmax;
+    box-sizing: border-box;
+}
+.joinbtn{
+    width: 25vmax;
+    padding:1.5vmax;
+    border: none;
+    color: white;
+    font-family: "Roboto";
+    outline: none;
+    font-size: 1.2vmax;
+    background-color: rgb(72, 212, 182);
+    box-sizing: border-box;
+    
+    
+    transition: all 0.3s;
+    cursor: pointer;
+
+
+
+}
+.joinbtn:hover{
+    background-color: rgb(59, 165, 138);
+
+}
