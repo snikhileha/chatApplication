@@ -47,7 +47,7 @@ and in another terminal tab run:
 ```
 npm run development
 ```
-View the app running in development at
+View the app running in development at https://statuesque-tapioca-31c5de.netlify.app/
 
   
       
